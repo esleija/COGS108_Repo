@@ -2,3 +2,5 @@
 COGS 108 Repository 
 
 This will be used for Spring 2017 class course with Bradley Voytek.
+
+With my first pull request 
